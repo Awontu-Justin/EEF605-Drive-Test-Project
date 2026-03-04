@@ -1,0 +1,6 @@
+// Top-level build file
+plugins {
+    alias(libs.plugins.android.application) apply false
+    // The Google Services plugin must stay here in the top-level plugins block
+    id 'com.google.gms.google-services' version '4.4.4' apply false
+}

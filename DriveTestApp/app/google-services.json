@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630766056722",
+    "project_id": "eef605-drivetest",
+    "storage_bucket": "eef605-drivetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630766056722:android:6b246de751879fd211afcb",
+        "android_client_info": {
+          "package_name": "com.example.drivetestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPcurUZlemud1ae-HA7XF8Sg3zyuqm7xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
